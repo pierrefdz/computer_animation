@@ -71,6 +71,6 @@ The files created during the project are in the folder scenes>sources>up. This f
 ## User manual
 
 The user can:
-- change the time scale on which the house is evolving by using the slider
+- change the time scale on which the house is evolving by using the slide bar
 - add or remove balloons by clicking on the add and remove buttons (not to fast, otherwise it generates freeze/ crash of the program)
 - decide to display or not the house, the balloons and the birds
